@@ -1,6 +1,6 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-import questions from './JS/index.JS';
+module.import questions from './JS/index.JS';
 data = questions.response;
 const license = data.license
 console.log(license)
