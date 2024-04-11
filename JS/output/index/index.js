@@ -55,8 +55,10 @@ export const questions = [{
 }];
 
 // TODO: Create a function to initialize app
-const init = () => console.log('npm init -y');
-
+const init = () => {
+console.log('npm i');
+ console.log('npm init -y');
+}
 // Function call to initialize app
 // init();
 
